@@ -1,0 +1,5 @@
+Sector,R² Score,MAE,Accuracy (%)
+Agriculture (% of GDP),0.986,0.926,98.64
+Industry (% of GDP),0.932,0.624,93.19
+Services (% of GDP),0.958,0.903,95.85
+Manufacturing (% of GDP),0.626,0.452,62.61
