@@ -24,9 +24,11 @@ Achieved Model Accuracy: 99.3% (R²)
 Visualization (Power BI Dashboard)
 
 Created multi-page dashboard:
-Page 1: Intro
-Page 2: India’s Economic Evolution (1960–2030)
-Page 3: Key Insights & Outlook
+Page 1: Intro <img width="2074" height="1164" alt="Screenshot 2025-10-05 193007" src="https://github.com/user-attachments/assets/acd4ff80-3190-4800-8d6d-23c09a48aff4" />
+Page 2: India’s Economic Evolution (1960–2030) <img width="2109" height="1185" alt="Screenshot 2025-10-05 201835" src="https://github.com/user-attachments/assets/12039d21-d154-4deb-8cfe-b228c66f719f" />
+Page 3: Key Insights & Outlook <img width="2109" height="1185" alt="Screenshot 2025-10-05 201858" src="https://github.com/user-attachments/assets/eb67fe93-04de-43f3-866e-ad149e9576ab" />
+
+
 
 Forecast Output (2024–2030)
 Services → 55%+ of total GDP by 2030
@@ -74,6 +76,7 @@ Tools: Jupyter Notebook, GitHub, Power BI Desktop
 India’s economic strength lies in its ability to adapt and evolve —
 from ploughs to processors, from local markets to global innovation hubs.
 In my previous project, I analyzed India’s economy.
+
 In this one, I forecast its future.
 
 👤 Author
